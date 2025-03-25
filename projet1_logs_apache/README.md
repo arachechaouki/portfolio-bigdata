@@ -16,5 +16,5 @@ Ce projet lit et analyse un fichier de logs Apache pour en extraire des informat
 Graphiques des IPs, pages, erreurs HTTP.
 
 # Fichiers :
-- `analyse_logs.py` : script principal
-- `apache_logs.txt` : fichier non inclus ici
+- analyse_logs.py : script principal
+- apache_logs.txt : fichier non inclus ici
