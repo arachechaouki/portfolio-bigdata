@@ -24,4 +24,3 @@ Graphiques des IPs, pages, erreurs HTTP.
 - top_ips.csv : IPs les plus fréquentes (export CSV)
 - erreurs_http.json : erreurs HTTP (export JSON)
 - apache_logs.txt : fichier non inclus ici
-
